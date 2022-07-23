@@ -31,7 +31,7 @@ twitter_username: jekyllrb
 github_username:  wgr5600133
 
 # Build settings
-theme: minima
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
